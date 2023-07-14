@@ -7,3 +7,6 @@ Basical Sql  Commands
 
 DDL: Data Definitional Language like CREATE/DROP/ALTER tables
 
+DML: Data Manipulation Language like insert/update/delete operations on the data
+
+
